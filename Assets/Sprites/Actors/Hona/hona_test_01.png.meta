@@ -1,40 +1,31 @@
 fileFormatVersion: 2
-guid: 811133614c0745641865e1faf7c3aa62
+guid: dfbe5a7623c9abc42b4fc111604d1061
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6179472920405388287
-    second: plain_tileset_0
+      213: 9107097865539990697
+    second: hona_test_01_0
   - first:
-      213: 6982307579602793444
-    second: plain_tileset_1
+      213: 301712836416284021
+    second: hona_test_01_1
   - first:
-      213: -1979726152481856640
-    second: plain_tileset_2
+      213: -119791649547376204
+    second: hona_test_01_2
   - first:
-      213: 1577152260063209162
-    second: plain_tileset_3
+      213: 7574046585196516182
+    second: hona_test_01_3
   - first:
-      213: -4135978604827318150
-    second: plain_tileset_4
+      213: -4059123353497277625
+    second: hona_test_01_4
   - first:
-      213: 1629636660980333460
-    second: plain_tileset_5
+      213: -2566029172910810087
+    second: hona_test_01_5
   - first:
-      213: 309448428002177772
-    second: plain_tileset_6
+      213: -4275823853825615436
+    second: hona_test_01_6
   - first:
-      213: 5265318660877233848
-    second: plain_tileset_7
-  - first:
-      213: 4809821861977005760
-    second: plain_tileset_8
-  - first:
-      213: -8413048004283037005
-    second: plain_tileset_9
-  - first:
-      213: -1901965131703881433
-    second: plain_tileset_10
+      213: 6666503385743962860
+    second: hona_test_01_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,8 +97,8 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-    compressionQuality: 100
-    crunchedCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -143,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: plain_tileset_0
+      name: hona_test_01_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224
+        x: 0
+        y: 192
         width: 32
-        height: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffba8ef71e5e1c550800000000000000
-      internalID: 6179472920405388287
+      spriteID: 9a4ba3ad149e26e70800000000000000
+      internalID: 9107097865539990697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plain_tileset_1
+      name: hona_test_01_1
       rect:
         serializedVersion: 2
         x: 32
         y: 192
         width: 32
-        height: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,118 +171,140 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e3fdb2ffb326e060800000000000000
-      internalID: 6982307579602793444
+      spriteID: 575a4c6e936ef2400800000000000000
+      internalID: 301712836416284021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plain_tileset_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 083a4c8ad899684e0800000000000000
-      internalID: -1979726152481856640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plain_tileset_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac6a5c9df9b23e510800000000000000
-      internalID: 1577152260063209162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plain_tileset_4
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a78e6ac4f5d0a96c0800000000000000
-      internalID: -4135978604827318150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plain_tileset_5
+      name: hona_test_01_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 128
+        y: 192
         width: 32
-        height: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8c4ab09c1f3be984ba40a3a537ab9f2d
-      internalID: -1343193563
+      spriteID: 4b9aba1212a665ef0800000000000000
+      internalID: -119791649547376204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plain_tileset_6
+      name: hona_test_01_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 96
+        y: 192
         width: 32
-        height: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0580cf83a0447074f9dc7fd51994e39f
-      internalID: 1323644792
+      spriteID: 65316ee7d3b6c1960800000000000000
+      internalID: 7574046585196516182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hona_test_01_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b6d4fe0d81ba7c0800000000000000
+      internalID: -4059123353497277625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hona_test_01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c9c590012a36cd0800000000000000
+      internalID: -2566029172910810087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hona_test_01_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b91596fbd839a4c0800000000000000
+      internalID: -4275823853825615436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hona_test_01_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23539328d248c50800000000000000
+      internalID: 6666503385743962860
       vertices: []
       indices: 
       edges: []
@@ -300,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2ce0c584d7149084088ef098b829b731
+    spriteID: b0b772f3bd1388443bd122302db2ce7e
     internalID: 0
     vertices: []
     indices: 
@@ -310,13 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      plain_tileset_0: 6179472920405388287
-      plain_tileset_1: 6982307579602793444
-      plain_tileset_2: -1979726152481856640
-      plain_tileset_3: 1577152260063209162
-      plain_tileset_4: -4135978604827318150
-      plain_tileset_5: -1343193563
-      plain_tileset_6: 1323644792
+      hona_test_01_0: 9107097865539990697
+      hona_test_01_1: 301712836416284021
+      hona_test_01_2: -119791649547376204
+      hona_test_01_3: 7574046585196516182
+      hona_test_01_4: -4059123353497277625
+      hona_test_01_5: -2566029172910810087
+      hona_test_01_6: -4275823853825615436
+      hona_test_01_7: 6666503385743962860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
